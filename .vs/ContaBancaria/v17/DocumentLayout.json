@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|c:\\users\\joaov\\desktop\\source\\csharp\\contabancaria\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|solutionrelative:entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|c:\\users\\joaov\\desktop\\source\\csharp\\contabancaria\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|c:\\users\\joaov\\desktop\\source\\csharp\\contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|c:\\users\\joaov\\desktop\\source\\csharp\\contabancaria\\contabancaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5813850B-9E91-4C84-993B-DDC3189810AA}|ContaBancaria.csproj|solutionrelative:contabancaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:59:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:45:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.csproj",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\ContaBancaria.csproj",
+              "RelativeDocumentMoniker": "ContaBancaria.csproj",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\ContaBancaria.csproj",
+              "RelativeToolTip": "ContaBancaria.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T13:45:20.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joaov\\Desktop\\source\\Csharp\\ContaBancaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:30:29.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

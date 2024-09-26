@@ -1,0 +1,15 @@
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\bin\Debug\net8.0\ContaBancaria.exe
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\bin\Debug\net8.0\ContaBancaria.deps.json
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\bin\Debug\net8.0\ContaBancaria.runtimeconfig.json
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\bin\Debug\net8.0\ContaBancaria.dll
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\bin\Debug\net8.0\ContaBancaria.pdb
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.sourcelink.json
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.dll
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\refint\ContaBancaria.dll
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\joaov\Desktop\source\Csharp\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll
